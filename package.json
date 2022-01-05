@@ -1,0 +1,19 @@
+{
+  "name": "project-zomboid-server-tools",
+  "version": "1.0.0",
+  "description": "Tools to easily set set up and manage a Project Zomboid server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolyLogiX-Studio/project-zomboid-server-tools.git"
+  },
+  "author": "bombitmanbomb",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/PolyLogiX-Studio/project-zomboid-server-tools/issues"
+  },
+  "homepage": "https://github.com/PolyLogiX-Studio/project-zomboid-server-tools#readme"
+}
